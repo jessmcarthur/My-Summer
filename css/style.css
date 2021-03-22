@@ -1,0 +1,25 @@
+
+img {
+    width: 15em;
+  }
+
+  header h1 {
+    font-family: 'Chango', cursive;
+    font-size: 3em;
+    color:gold;
+    text-align: center;
+  }
+
+  h2 {
+    font-family:'Josefin Sans', sans-serif ;
+    text-decoration: underline
+  }
+
+  footer {
+    height: 5em;
+    background-color: #DDDDDD;
+  }
+
+  footer p {
+    text-align: center;
+  }
